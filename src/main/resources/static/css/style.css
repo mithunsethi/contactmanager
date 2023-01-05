@@ -1,0 +1,29 @@
+@charset "ISO-8859-1";
+
+body {
+	background: #e2e2e2 !important;
+}
+
+.bg-primary {
+	background: #87054d !important;
+}
+
+.mith {
+	width: 100%;
+	min-height: 93vh;
+	background: linear-gradient(rgba(0, 0, 0, .7), rgba(0, 0, 0, .7)),
+		url("../img/mith.jpg");
+	background-size: cover;
+	background-position: fixed;
+	background-repeat: no-repeat;
+	color: white;
+}
+
+.my-card {
+	background-color: white;
+	padding: 20px;
+}
+
+.rimg {
+	width: 60px;
+}
